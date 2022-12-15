@@ -17,3 +17,4 @@ My GitHub page is http://github.com/FedCadiz.
 * Lab 6
 
     Lab 6, part 1 was a favorite of mine where we created patterns in the command line. I thought this one was really interesting since it got me thinking about how this was how programmers would make pictures back in the day. Compared to now where things are actual high quality images, it gave me perspective of how the technology has evolved.
+
